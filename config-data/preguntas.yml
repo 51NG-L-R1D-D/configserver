@@ -69,4 +69,9 @@ config:
  balanceador:
   test: pruebas de balanceo de carga desde el config server EUREKA y Spring Cloud Gate 
  base:
-  endpoint: http://localhost:8090/api/respuestas         
+  endpoint: http://119.8.148.191:8090/api/respuestas
+  
+  
+  
+  
+           
