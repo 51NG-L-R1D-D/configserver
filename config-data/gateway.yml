@@ -60,7 +60,7 @@ server:
 
 eureka:
   instance:
-    hostname: localhost
+    hostname: http://119.8.148.191
   client:
     fetch-registry: 'true'
     register-with-eureka: 'true'
